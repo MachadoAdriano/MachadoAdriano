@@ -1,16 +1,17 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
 
-<!--
-**MachadoAdriano/MachadoAdriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+  <h1> Machado Developer's </1>
+</head>
 
-Here are some ideas to get you started:
+<body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Bem-vindo à minha GitHub!</h1>
+<p>Essa é a página de um estudante de programação. Sinta-se em casa!</p>
+
+<h2>Importante Saber</h2>
+<p> Estou iniciando minha jornada de programação disposto a aquirir <i> "conhecimentos" </i> necessários para me tornar um desenvolvedor <b> Back-End </>.</p>
+
+</body>
+</html>
