@@ -7,7 +7,7 @@
 
 <body>
 
-<h1>Bem-vindo à minha GitHub!</h1>
+<h1>Bem-vindo!</h1>
 <p>Essa é a página de um estudante de programação. Sinta-se em casa!</p>
 
 <h2>Importante Saber</h2>
