@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+<img src="xícara-de-café_50ed8f699eb4a-p.gif">
+
 <html>
 
 <head>
