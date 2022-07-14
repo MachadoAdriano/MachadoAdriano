@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-
+<img src="xícara-de-café_50ed8f699eb4a-p.gif" alt="Café" width="42" height="42" style="vertical-align:bottom">
 <head>
   <h1> Machado Developer's </1>
 </head>
