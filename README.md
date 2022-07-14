@@ -2,9 +2,9 @@
 
 <html>
 
-<i class="devicon-coffeescript-original colored"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-// <img src="xícara-de-café_50.png" alt="Café" width="63" height="63" style="vertical-align:bottom">
+**<img src="xícara-de-café_50.png" alt="Café" width="63" height="63" style="vertical-align:bottom">
 <head>
   <h1> Machado Developer's </1>
 </head>
