@@ -2,7 +2,7 @@
 
 <html>
        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="Café" width="63" height="63" style="vertical-align:bottom">
+<img src="xícara-de-café_50.png" alt="Café" width="63" height="63" style="vertical-align:bottom">
 
 <head>
   <h1> Machado Developer's </1>
