@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 
 <html>
-<img src="xícara-de-café_50.png" alt="Café" width="63" height="63" style="vertical-align:bottom">
+
+<i class="devicon-coffeescript-original colored"></i>
+          
+// <img src="xícara-de-café_50.png" alt="Café" width="63" height="63" style="vertical-align:bottom">
 <head>
   <h1> Machado Developer's </1>
 </head>
