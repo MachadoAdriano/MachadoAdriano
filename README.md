@@ -1,4 +1,4 @@
-<img src= https://raw.githubusercontent.com/MachadoAdriano/MachadoAdriano/branch/path/to/xícara-de-café_50ed8f699eb4a-p.gif>
+<img src="xícara-de-café_50ed8f699eb4a-p.gif" alt="Carregando">
 
 <!DOCTYPE html>
 <html>
