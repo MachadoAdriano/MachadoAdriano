@@ -1,5 +1,4 @@
-![alt text](https://raw.githubusercontent.com/MachadoAdriano/MachadoAdriano/branch/path/to/
-xícara-de-café_50ed8f699eb4a-p.gif)
+![alt text](https://raw.githubusercontent.com/MachadoAdriano/MachadoAdriano/branch/path/to/xícara-de-café_50ed8f699eb4a-p.gif)
 
 <!DOCTYPE html>
 <html>
