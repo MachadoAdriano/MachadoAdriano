@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="Café" width="63" height="63" style="vertical-align:middle">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="Café" width="73" height="73" style="vertical-align:middle">
 
 <html>
 
