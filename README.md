@@ -2,7 +2,7 @@
 
 <html>
 <div>
-  <a><img style="float:right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="Café" width="93" height="93"><b1><h> Machado Developer's </b1></h></a>
+  <a><img style="float:right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="Café" width="93" height="93"><h> Machado Developer's </h></a>
    
 </div>
 <body>
