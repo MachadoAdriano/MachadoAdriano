@@ -2,7 +2,7 @@
 
 <html>
 <div>
-  <a><img style="float:right" src="CAFE.PNG" alt="Café" width="93" height="93"><h1> Machado Developer's </h1></a>
+  <a><img style="float:right" src="CAFE.png" alt="Café" width="93" height="93"><h1> Machado Developer's </h1></a>
    
 </div>
 <body>
