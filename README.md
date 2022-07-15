@@ -22,6 +22,6 @@
 <div> 
   <a href = "mailto:machadoadrianosilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-machado-384349a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="http://lattes.cnpq.br/6094872304423776" target="_blank"><img src="lattes.png" target="_blank"></a> 
+  <a href="http://lattes.cnpq.br/6094872304423776" target="_blank"><img src="lattes.png" width="93" height="93" target="_blank"></a> 
  
 </div>
