@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="Café" width="93" height="93" style="vertical-align:middle">
-  <head>
-  <h1> Machado Developer's </h1>
-</head>
-  
-</div>
 
 <html>
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="Café" width="93" height="93" style="vertical-align:middle">
+  
+  <head>
+  <h1> Machado Developer's </h1>
+  </head>
+  
+</div>
 <body>
 
 <h1>Bem-vindo!</h1>
