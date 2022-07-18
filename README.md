@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-
+<div>
 <a><img style="float:right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="Café" width="93" height="93"></a>
+</div>
 
 <html>
-  <h1 align="center"> Machado Developer's </h1>
-   
+    <a><h1 align="center"> Machado Developer's </h1></a>
 <body>
 
 <h1>Bem-vindo!</h1>
